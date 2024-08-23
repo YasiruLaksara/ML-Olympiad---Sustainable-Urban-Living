@@ -44,12 +44,6 @@ The models were evaluated based on Root Mean Square Error (RMSE), Mean Absolute 
 
 Overall, the ensemble methods, particularly **Approach 4 - Method 2**, provided the highest predictive accuracy, consistently outperforming other approaches. This suggests that ensemble learning can significantly enhance model performance in predicting habitability scores.
 
-## Repository Contents
-
-- **Report:** [Link to the report](./Report.pdf)
-- **Jupyter Notebooks:** [Link to notebooks](./notebooks)
-- **Data:** [Link to data](./data)
-
 ## Conclusion
 
 This project demonstrated the effectiveness of ensemble methods in predicting sustainable habitability scores. The approaches and insights gained from this competition can be applied to similar predictive modeling tasks in real-world scenarios.
